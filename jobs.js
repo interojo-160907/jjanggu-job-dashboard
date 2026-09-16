@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-09-17T04:13:29.855+09:00","newIds":[],"changedIds":[],"closedIds":[]};
+window.JOB_UPDATE={"id":"2026-09-17T07:15:39.815+09:00","newIds":["medicare-55043957"],"changedIds":[],"closedIds":[]};
 window.JOBS=[
   {
     "id": "crane",
@@ -52,7 +52,11 @@ window.JOBS=[
     "status": "원문 재확인 · 모집 안내 유지",
     "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54914997",
     "checkedAt": "2026.09.17 04:13",
-    "recruitment": "모집 중"
+    "recruitment": "모집 중",
+    "specialNotes": [
+      "08:30 출근",
+      "파견 2년"
+    ]
   },
   {
     "id": "baeksan",
@@ -81,7 +85,11 @@ window.JOBS=[
     "checkedAt": "2026.09.17 04:13",
     "recruitment": "모집 중",
     "salaryType": "negotiable",
-    "employees": "고용24 근로자 수 1명 기재 · 실제 현재 인원 확인 필요"
+    "employees": "고용24 근로자 수 1명 기재 · 실제 현재 인원 확인 필요",
+    "specialNotes": [
+      "월~금 여부 확인",
+      "회계 경력 우대"
+    ]
   },
   {
     "id": "suseong",
@@ -107,7 +115,10 @@ window.JOBS=[
     "status": "원문 재확인 · 모집 안내 유지",
     "url": "https://www.alba.co.kr/job/Detail?adid=146580300",
     "checkedAt": "2026.09.17 04:13",
-    "recruitment": "모집 중"
+    "recruitment": "모집 중",
+    "specialNotes": [
+      "초기 1개월 계약"
+    ]
   },
   {
     "id": "bogum",
@@ -163,7 +174,11 @@ window.JOBS=[
     "addedBatch": "2026-09-17T03:57:04+09:00",
     "checkedAt": "2026.09.17 04:13",
     "recruitment": "모집 중",
-    "status": "공개 원문 모집 안내 확인 · 실제 결원·근무환경은 문의 필요"
+    "status": "공개 원문 모집 안내 확인 · 실제 결원·근무환경은 문의 필요",
+    "specialNotes": [
+      "08시 출근·19시 퇴근 가능",
+      "파견 2년"
+    ]
   },
   {
     "id": "manpower-lg-49606850",
@@ -192,6 +207,44 @@ window.JOBS=[
     "addedBatch": "2026-09-17T03:57:04+09:00",
     "checkedAt": "2026.09.17 04:13",
     "recruitment": "모집 중",
-    "status": "공개 원문 모집 안내 확인 · 실제 결원·근무환경은 문의 필요"
+    "status": "공개 원문 모집 안내 확인 · 실제 결원·근무환경은 문의 필요",
+    "specialNotes": [
+      "08시 출근",
+      "24개월 계약·인재풀"
+    ]
+  },
+  {
+    "id": "medicare-55043957",
+    "company": "메디케어의원",
+    "role": "접수·수납 직원",
+    "category": "office",
+    "group": "조건 확인 후 선택",
+    "specialNotes": [
+      "요일·시간 미확인",
+      "6개월 계약",
+      "안중읍 · 통근 확인"
+    ],
+    "region": "평택 안중읍",
+    "address": "경기도 평택시 안중읍 안현로서8길 57, 209·301·302호",
+    "business": "일반 의원 · 접수/수납 채용",
+    "employees": "공개 공고에서 확인되지 않음",
+    "pay": "면접 후 결정",
+    "salaryType": "negotiable",
+    "annual": "제시 금액 미정 · 면접 전 희망 연봉 범위 확인",
+    "hours": "근무 요일·시간 미확인 · 토요일 포함 여부 확인",
+    "contract": "계약직 6개월 · 정규직 전환 가능(보장 아님)",
+    "benefit": "복리후생 확인 필요",
+    "duties": "접수·수납 모집. 진료보조 병행, 예약·보험청구 범위와 실제 좌식 비중 확인 필요.",
+    "why": "병원 경험을 활용할 수 있는 접수·수납 직무라 조건 확인 후 선택할 후보로 제시합니다.",
+    "caution": "주 5일·09~18 근무가 확인된 공고는 아닙니다. 안중읍 출퇴근과 6개월 후 전환 조건 확인 필요.",
+    "checks": "근무일·토요일·야간, 급여 범위, 접수 경력 인정, 진료보조·판매목표 여부, 인수인계, 정규직 전환 기준, 출근 시간대 경로",
+    "deadline": "2026-11-14",
+    "deadlineText": "2026.11.14 23:59 · 조기 마감 가능",
+    "source": "사람인",
+    "url": "https://m.saramin.co.kr/job-search/view?cn=job-industry&cns=recently-list&rec_idx=55043957&referNonce=&t_category=job_recruit&t_content=generic",
+    "checkedAt": "2026.09.17 07:15",
+    "addedBatch": "2026-09-17T07:15:39.815+09:00",
+    "recruitment": "모집 중",
+    "status": "원문 모집 안내 확인 · 근무 요일·시간·급여 금액은 미확인"
   }
 ];
