@@ -1,3 +1,5 @@
+// Personal setup uses the URL fragment, which is not sent to GitHub Pages.
+try{const fragment=new URLSearchParams(location.hash.slice(1));const origin=fragment.get('from');if(origin&&/^[a-zA-Z0-9.%-]+,[a-zA-Z0-9.%-]+,[^/]+,,ADDRESS_POI$/.test(origin)){localStorage.setItem('naver-origin-segment',origin);localStorage.setItem('commute-origin',decodeURIComponent(origin.split(',')[2]));history.replaceState(null,'',location.pathname+location.search)}}catch{}
 const $=s=>document.querySelector(s);let commuteOrigin='';try{commuteOrigin=localStorage.getItem('commute-origin')||''}catch{};let saved=Archive.saved;let tab='all',filter='all';const expanded=new Set();
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const isNew=j=>JOBS.some(x=>x.id===j.id)&&(j.addedBatch===window.JOB_UPDATE?.id||(window.JOB_UPDATE?.newIds||[]).includes(j.id));
