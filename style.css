@@ -20,3 +20,6 @@
 .row-tools{display:flex;flex-direction:column;align-items:center;flex-shrink:0}.copy-job{border:0;background:#edf5f3;color:#16766c;font-size:11px;font-weight:700;border-radius:6px;min-width:44px;min-height:36px;padding:5px}.copy-job:active{background:#d6eae4}#copy-text{height:230px;font-size:16px}@media(max-width:500px){.row-tools{margin-left:4px}.row-top .salary{float:none;display:block;padding-top:0}.copy-job{min-height:40px}}
 
 nav{overflow-x:auto;scrollbar-width:thin}nav button{white-space:nowrap;flex-shrink:0}@media(max-width:500px){nav button{flex:0 0 auto;padding:12px 10px;min-height:44px}}
+
+/* Keep long research notes and tabs inside narrow mobile grids. */
+.workspace{min-width:0}.refresh-log p,.preview-facts{overflow-wrap:anywhere}
