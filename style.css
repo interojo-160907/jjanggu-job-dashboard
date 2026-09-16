@@ -16,3 +16,5 @@
 .origin-input{display:block;width:100%;border:1px solid #cbdad7;border-radius:8px;padding:11px;font:inherit;margin:8px 0}.row-toggle:focus-visible{outline-offset:3px}.filters{scrollbar-width:thin}a,button,summary{-webkit-tap-highlight-color:transparent}
 
 .toggle-all{background:white;border:1px solid #ccdadf;border-radius:7px;padding:7px 12px;color:#16766c;font-size:12px;min-height:36px}.list-heading{align-items:center}.toggle-all:disabled{opacity:.5;cursor:default}
+
+.row-tools{display:flex;flex-direction:column;align-items:center;flex-shrink:0}.copy-job{border:0;background:#edf5f3;color:#16766c;font-size:11px;font-weight:700;border-radius:6px;min-width:44px;min-height:36px;padding:5px}.copy-job:active{background:#d6eae4}#copy-text{height:230px;font-size:16px}@media(max-width:500px){.row-tools{margin-left:4px}.row-top .salary{float:none;display:block;padding-top:0}.copy-job{min-height:40px}}
