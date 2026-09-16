@@ -14,3 +14,5 @@
 .new-badge{display:inline-block;background:#b83b0c;color:#fff;border-radius:5px;padding:3px 8px;font-size:12px;font-weight:800;letter-spacing:.25px;margin-bottom:5px;line-height:1.4}.job.is-new{border:2px solid #ea7a38;border-left:5px solid #d54b10;background:#fff9f3}.update-counts{font-size:12px;color:#62718a;margin:3px 2px 9px}.update-counts strong{color:#324860;margin-right:6px}.new-count{color:#a8350c;font-weight:800;background:#ffead9;border-radius:4px;padding:3px 6px}
 
 .origin-input{display:block;width:100%;border:1px solid #cbdad7;border-radius:8px;padding:11px;font:inherit;margin:8px 0}.row-toggle:focus-visible{outline-offset:3px}.filters{scrollbar-width:thin}a,button,summary{-webkit-tap-highlight-color:transparent}
+
+.toggle-all{background:white;border:1px solid #ccdadf;border-radius:7px;padding:7px 12px;color:#16766c;font-size:12px;min-height:36px}.list-heading{align-items:center}.toggle-all:disabled{opacity:.5;cursor:default}
