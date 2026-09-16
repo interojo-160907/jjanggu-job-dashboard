@@ -34,10 +34,8 @@ $('#close-copy').onclick=()=>$('#copy-dialog').close();
 
 $('#copy-update').onclick=async()=>{const input=$('#update-request');try{if(!navigator.clipboard?.writeText)throw Error();await Promise.race([navigator.clipboard.writeText(input.value),new Promise((_,reject)=>setTimeout(()=>reject(Error()),2000))]);$('#copy-update-status').textContent='복사 완료! 이 대화에 붙여넣어 보내주세요. GitHub 푸시·배포 확인까지 요청됩니다.'}catch{input.focus();input.select();$('#copy-update-status').textContent='자동 복사가 제한됩니다. 선택된 문장을 길게 누르거나 Ctrl+C로 복사해주세요.'}};
 
-// The title returns to the default view without touching personal records.
-document.querySelector('.brand').addEventListener('click',e=>{
- if(e.ctrlKey||e.metaKey||e.shiftKey||e.altKey)return;
- e.preventDefault();
+// Only the explicit Home button resets the view; the title is plain text.
+document.querySelector('#home').addEventListener('click',()=>{
  expanded.clear();
  document.querySelectorAll('details[open]').forEach(d=>d.open=false);
  document.querySelector('[data-tab="all"]').click();

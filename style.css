@@ -23,3 +23,5 @@ nav{overflow-x:auto;scrollbar-width:thin}nav button{white-space:nowrap;flex-shri
 
 /* Keep long research notes and tabs inside narrow mobile grids. */
 .workspace{min-width:0}.refresh-log p,.preview-facts{overflow-wrap:anywhere}
+
+.brand-group{display:flex;align-items:center;gap:14px;min-width:0}#home{flex-shrink:0;min-width:44px;min-height:44px;padding:7px 12px;border:1px solid #cbd9e5;border-radius:8px;background:#fff;color:#16766c;font-size:13px;font-weight:700}@media(max-width:500px){.head{flex-wrap:wrap;gap:4px}.brand-group{gap:10px}.head .updated{margin-left:auto;max-width:none}.brand-group .brand{max-width:none}}
