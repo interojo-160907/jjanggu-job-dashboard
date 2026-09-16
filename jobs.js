@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-09-17T03:57:04+09:00","newIds":["ipc-dpworld-49929461","manpower-lg-49606850"],"changedIds":["baeksan"],"closedIds":[]};
+window.JOB_UPDATE={"id":"2026-09-17T04:13:29.855+09:00","newIds":[],"changedIds":[],"closedIds":[]};
 window.JOBS=[
   {
     "id": "crane",
@@ -24,7 +24,7 @@ window.JOBS=[
     "source": "알바천국",
     "status": "원문 재확인 · 모집 안내 유지",
     "url": "https://www.alba.co.kr/job/Detail?adid=146669468",
-    "checkedAt": "2026.09.17 03:57",
+    "checkedAt": "2026.09.17 04:13",
     "recruitment": "모집 중"
   },
   {
@@ -51,7 +51,7 @@ window.JOBS=[
     "source": "사람인",
     "status": "원문 재확인 · 모집 안내 유지",
     "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54914997",
-    "checkedAt": "2026.09.17 03:57",
+    "checkedAt": "2026.09.17 04:13",
     "recruitment": "모집 중"
   },
   {
@@ -78,7 +78,7 @@ window.JOBS=[
     "source": "고용24",
     "status": "고용24 원문·알바천국 연계 공고 재확인 · 협의 가능 및 마감 표기 차이 보완",
     "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet&wantedAuthNo=K180612608180017",
-    "checkedAt": "2026.09.17 03:57",
+    "checkedAt": "2026.09.17 04:13",
     "recruitment": "모집 중",
     "salaryType": "negotiable",
     "employees": "고용24 근로자 수 1명 기재 · 실제 현재 인원 확인 필요"
@@ -106,7 +106,7 @@ window.JOBS=[
     "source": "알바천국",
     "status": "원문 재확인 · 모집 안내 유지",
     "url": "https://www.alba.co.kr/job/Detail?adid=146580300",
-    "checkedAt": "2026.09.17 03:57",
+    "checkedAt": "2026.09.17 04:13",
     "recruitment": "모집 중"
   },
   {
@@ -130,10 +130,11 @@ window.JOBS=[
     "deadline": null,
     "deadlineText": "채용시까지",
     "source": "고용24",
-    "status": "원문 재접속 실패 · 이전 자료 유지 · 마감으로 단정하지 않음",
+    "status": "원문 재접속 실패 (2026.09.17 04:13) · 모집/마감 여부 확인 필요",
     "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet&wantedAuthNo=KEC0092609140002",
     "checkedAt": "2026.09.17 03:57",
-    "recruitment": "확인 필요"
+    "recruitment": "확인 필요",
+    "attemptedAt": "2026.09.17 04:13"
   },
   {
     "id": "ipc-dpworld-49929461",
@@ -160,7 +161,7 @@ window.JOBS=[
     "source": "잡코리아",
     "url": "https://m.jobkorea.co.kr/Recruit/GI_Read/49929461?PageGbn=MST&sc=226",
     "addedBatch": "2026-09-17T03:57:04+09:00",
-    "checkedAt": "2026.09.17 03:57",
+    "checkedAt": "2026.09.17 04:13",
     "recruitment": "모집 중",
     "status": "공개 원문 모집 안내 확인 · 실제 결원·근무환경은 문의 필요"
   },
@@ -189,9 +190,8 @@ window.JOBS=[
     "source": "잡코리아",
     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49606850?Oem_Code=C1&listno=4280&logpath=1&stext=%ED%98%91%ED%9A%8C",
     "addedBatch": "2026-09-17T03:57:04+09:00",
-    "checkedAt": "2026.09.17 03:57",
+    "checkedAt": "2026.09.17 04:13",
     "recruitment": "모집 중",
     "status": "공개 원문 모집 안내 확인 · 실제 결원·근무환경은 문의 필요"
   }
 ];
-window.NAVER_DESTINATIONS={"crane":"3zp38k,2Aq6Sz,%EA%B2%BD%EA%B8%B0%20%EC%95%88%EC%84%B1%EC%8B%9C%20%EC%9B%90%EA%B3%A1%EB%A9%B4%20%EC%9B%90%EB%8B%B9%EB%A1%9C%2023,,ADDRESS_POI","staffs":"3zm7Ft,2AttwH,%EA%B2%BD%EA%B8%B0%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EC%A7%84%EC%9C%84%EB%A9%B4%20%EC%A7%84%EC%9C%84%EC%82%B0%EB%8B%A8%EB%A1%9C%2064,,ADDRESS_POI","baeksan":"3zoN1L,2AogF9,%EA%B2%BD%EA%B8%B0%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%ED%98%84%EC%8B%A07%EA%B8%B8%2030,,ADDRESS_POI","suseong":"3zmPhW,2AnKLN,%EA%B2%BD%EA%B8%B0%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EC%A1%B0%EA%B0%9C%ED%84%B0%EB%A1%9C2%EB%B2%88%EA%B8%B8%201,,ADDRESS_POI","bogum":"3zlkXH,2Ao4kC,%EA%B2%BD%EA%B8%B0%20%ED%8F%89%ED%83%9D%EC%8B%9C%20%EC%8B%A0%EB%8C%80%EA%B3%A0%EC%9E%94%EA%B8%B8%2055-14,,ADDRESS_POI"};
