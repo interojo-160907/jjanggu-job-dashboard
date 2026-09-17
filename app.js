@@ -12,7 +12,7 @@ document.querySelectorAll('[data-expand]').forEach(b=>b.onclick=()=>{const id=b.
 function toast(t){$('#toast').textContent=t;$('#toast').style.display='block';setTimeout(()=>$('#toast').style.display='none',3000)}
 function classify(j){if(/접수|수납|원무/.test(j.role))return '고객·접수';const t=j.role+' '+j.duties;if(/경리|회계|급여.*보험/.test(t))return '경리·회계';if(/간호|입소자|진료.*보조/.test(t))return '의료·돌봄';if(/교육|출결|수강/.test(t))return '교육행정';if(/예약|일정.*조율/.test(t))return '예약·일정';if(/수발주|주문|납기/.test(t))return '주문·수발주';if(/접수|수납|인바운드|전화 응대|고객지원/.test(t))return '고객·접수';if(/사무|행정|문서/.test(t))return '사무·행정';return '기타·확인 필요'}
 document.querySelector('.filters').innerHTML=['all',...new Set(Archive.jobs.map(classify)),'stretch','special'].map(x=>`<button data-filter="${esc(x)}" class="${x==='all'?'active':''}">${esc(x==='all'?'전체':x==='special'?'특이사항':x==='stretch'?'조건 좋은 제안':x)}</button>`).join('');
-document.querySelectorAll('[data-tab]').forEach(b=>b.onclick=()=>{tab=b.dataset.tab;document.querySelectorAll('[data-tab]').forEach(x=>x.classList.toggle('selected',x===b));filter='all';$('#search').value='';document.querySelectorAll('[data-filter]').forEach(x=>x.classList.toggle('active',x.dataset.filter==='all'));$('#criteria').hidden=tab!=='criteria';$('#logs').hidden=tab!=='logs';$('#results').hidden=['criteria','logs'].includes(tab);render()});document.querySelectorAll('[data-filter]').forEach(b=>b.onclick=()=>{filter=b.dataset.filter;document.querySelectorAll('[data-filter]').forEach(x=>x.classList.toggle('active',x===b));render()});$('#search').oninput=render;$('#update').onclick=()=>$('#help').showModal();$('#close-help').onclick=()=>$('#help').close();
+document.querySelectorAll('[data-tab]').forEach(b=>b.onclick=()=>{tab=b.dataset.tab;document.querySelectorAll('[data-tab]').forEach(x=>x.classList.toggle('selected',x===b));filter='all';$('#search').value='';document.querySelectorAll('[data-filter]').forEach(x=>x.classList.toggle('active',x.dataset.filter==='all'));$('#criteria').hidden=tab!=='criteria';$('#logs').hidden=tab!=='logs';$('#career').hidden=tab!=='career';document.querySelector('main').classList.toggle('career-mode',tab==='career');$('#results').hidden=['criteria','logs','career'].includes(tab);document.querySelectorAll('[data-tab]').forEach(x=>x.setAttribute('aria-current',x.dataset.tab===tab?'page':'false'));b.scrollIntoView({block:'nearest',inline:'nearest'});render()});document.querySelectorAll('[data-filter]').forEach(b=>b.onclick=()=>{filter=b.dataset.filter;document.querySelectorAll('[data-filter]').forEach(x=>x.classList.toggle('active',x===b));render()});$('#search').oninput=render;$('#update').onclick=()=>$('#help').showModal();$('#close-help').onclick=()=>$('#help').close();
 if(Date.now()-new Date(window.JOB_UPDATE?.id||'2026-09-17T03:28+09:00').getTime()>86400000*2){$('#stale').hidden=false;$('#stale').textContent='공고 확인 후 2일 이상 지났습니다. 오늘 모집 여부를 다시 확인해주세요.'}render();
 
 $('#update-mobile').onclick=()=>$('#help').showModal();Archive.bindBackup();
@@ -36,9 +36,13 @@ $('#copy-update').onclick=async()=>{const input=$('#update-request');try{if(!nav
 
 // Only the explicit Home button resets the view; the title is plain text.
 document.querySelector('#home').addEventListener('click',()=>{
+ if(/^#career(?:-|$)/.test(location.hash))history.replaceState(null,'',location.pathname+location.search);
  expanded.clear();
  document.querySelectorAll('details[open]').forEach(d=>d.open=false);
  document.querySelector('[data-tab="all"]').click();
  document.querySelectorAll('nav,.filters').forEach(el=>el.scrollLeft=0);
  window.scrollTo({top:0,left:0,behavior:'instant'});
 });
+
+// Direct links open the career page before scrolling to its section.
+if(/^#career(?:-|$)/.test(location.hash)){document.querySelector('[data-tab=career]').click();requestAnimationFrame(()=>document.querySelector(location.hash)?.scrollIntoView({block:'start'}));}
