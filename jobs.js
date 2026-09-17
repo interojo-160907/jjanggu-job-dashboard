@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-09-17T07:26:56.012+09:00","newIds":["nampyeongtaek-3704613","life365-3723614"],"changedIds":["medicare-55043957"],"closedIds":[]};
+window.JOB_UPDATE={"id":"2026-09-17T10:22:24+09:00","newIds":["kyungdong-146910927"],"changedIds":["suseong"],"closedIds":[]};
 window.JOBS=[
   {
     "id": "crane",
@@ -22,9 +22,9 @@ window.JOBS=[
     "deadline": null,
     "deadlineText": "상시모집 · 조기 마감 가능",
     "source": "알바천국",
-    "status": "원문 재확인 · 모집 안내 유지",
+    "status": "공개 원문 모집 안내·요약 조건 재확인 · 상세 업무는 기존 확인 자료 유지",
     "url": "https://www.alba.co.kr/job/Detail?adid=146669468",
-    "checkedAt": "2026.09.17 07:26",
+    "checkedAt": "2026.09.17 10:22",
     "recruitment": "모집 중"
   },
   {
@@ -49,9 +49,9 @@ window.JOBS=[
     "deadline": "2026-09-30",
     "deadlineText": "2026.09.30 마감",
     "source": "사람인",
-    "status": "원문 재확인 · 모집 안내 유지",
+    "status": "공개 원문 모집 안내·요약 조건 재확인 · 상세 업무는 기존 확인 자료 유지",
     "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54914997",
-    "checkedAt": "2026.09.17 07:26",
+    "checkedAt": "2026.09.17 10:22",
     "recruitment": "모집 중",
     "specialNotes": [
       "08:30 출근",
@@ -80,9 +80,9 @@ window.JOBS=[
     "deadline": null,
     "deadlineText": "고용24 채용시까지 / 알바천국 2026.10.17 표기 · 확인 필요",
     "source": "고용24",
-    "status": "원문 재확인 · 모집 안내 유지",
+    "status": "원문 모집 안내·주요 조건 재확인 · 실제 업무 비중과 통근은 확인 필요",
     "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet&wantedAuthNo=K180612608180017",
-    "checkedAt": "2026.09.17 07:26",
+    "checkedAt": "2026.09.17 10:22",
     "recruitment": "모집 중",
     "salaryType": "negotiable",
     "employees": "고용24 근로자 수 1명 기재 · 실제 현재 인원 확인 필요",
@@ -103,7 +103,7 @@ window.JOBS=[
     "pay": "월 220만 원",
     "annual": "연 2,640만 원 환산 · 이전 대비 −240만 원",
     "hours": "월~금 09:00~18:00",
-    "contract": "초기 1개월 계약 후 연장 조건 확인",
+    "contract": "초기 1개월 계약 후 1년 연장 안내 · 계약서는 3개월마다 작성",
     "benefit": "식사·교통 지원 공고 기재, 지급 범위 확인",
     "duties": "카드 단말기 관련 온라인 업무, 인바운드 전화 응대, 컴퓨터·엑셀 사무.",
     "why": "주중 주간 사무 업무로 검토할 수 있습니다. 전화 응대 경험을 활용할 여지가 있습니다.",
@@ -112,9 +112,9 @@ window.JOBS=[
     "deadline": null,
     "deadlineText": "상시모집",
     "source": "알바천국",
-    "status": "원문 재확인 · 모집 안내 유지",
+    "status": "브라우저 상세 본문 재확인 · 계약 갱신 문구 보완(회사 조건 변경 확인 아님)",
     "url": "https://www.alba.co.kr/job/Detail?adid=146580300",
-    "checkedAt": "2026.09.17 07:26",
+    "checkedAt": "2026.09.17 10:22",
     "recruitment": "모집 중",
     "specialNotes": [
       "초기 1개월 계약"
@@ -141,9 +141,9 @@ window.JOBS=[
     "deadline": null,
     "deadlineText": "채용시까지",
     "source": "고용24",
-    "status": "원문 재확인 · 모집 안내 유지",
+    "status": "원문 모집 안내·주요 조건 재확인 · 실제 업무 비중과 통근은 확인 필요",
     "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet&wantedAuthNo=KEC0092609140002",
-    "checkedAt": "2026.09.17 07:26",
+    "checkedAt": "2026.09.17 10:22",
     "recruitment": "모집 중"
   },
   {
@@ -171,9 +171,9 @@ window.JOBS=[
     "source": "잡코리아",
     "url": "https://m.jobkorea.co.kr/Recruit/GI_Read/49929461?PageGbn=MST&sc=226",
     "addedBatch": "2026-09-17T03:57:04+09:00",
-    "checkedAt": "2026.09.17 07:26",
+    "checkedAt": "2026.09.17 10:22",
     "recruitment": "모집 중",
-    "status": "원문 재확인 · 모집 안내 유지",
+    "status": "공개 원문 모집 안내·요약 조건 재확인 · 상세 업무는 기존 확인 자료 유지",
     "specialNotes": [
       "08시 출근·19시 퇴근 가능",
       "파견 2년"
@@ -204,9 +204,9 @@ window.JOBS=[
     "source": "잡코리아",
     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49606850?Oem_Code=C1&listno=4280&logpath=1&stext=%ED%98%91%ED%9A%8C",
     "addedBatch": "2026-09-17T03:57:04+09:00",
-    "checkedAt": "2026.09.17 07:26",
+    "checkedAt": "2026.09.17 10:22",
     "recruitment": "모집 중",
-    "status": "원문 재확인 · 모집 안내 유지",
+    "status": "원문 모집 안내·주요 조건 재확인 · 실제 업무 비중과 통근은 확인 필요",
     "specialNotes": [
       "08시 출근",
       "24개월 계약·인재풀"
@@ -241,20 +241,20 @@ window.JOBS=[
     "deadlineText": "메디잡 2026.10.18 / 사람인 11.14 · 마감 표기 불일치",
     "source": "메디잡 상세 이미지·사람인 교차 확인",
     "url": "https://www.medijob.cc/com/cpn/com_cpn_100_view_02?recruitSeqno=3700364",
-    "checkedAt": "2026.09.17 07:26",
+    "checkedAt": "2026.09.17 10:22",
     "addedBatch": "2026-09-17T07:15:39.815+09:00",
     "recruitment": "모집 중",
-    "status": "브라우저 본문·이미지 확인으로 근무시간 보완 · 회사 조건 변경으로 단정하지 않음"
+    "status": "원문 모집 안내·주요 조건 재확인 · 실제 업무 비중과 통근은 확인 필요"
   },
   {
     "category": "office",
     "group": "특이사항 확인 후 선택",
     "salaryType": "negotiable",
     "source": "메디잡",
-    "checkedAt": "2026.09.17 07:26",
+    "checkedAt": "2026.09.17 10:22",
     "addedBatch": "2026-09-17T07:26:56.012+09:00",
     "recruitment": "모집 중",
-    "status": "일반 브라우저 공개 상세 확인 · 실제 업무 비중과 통근은 확인 필요",
+    "status": "원문 모집 안내·주요 조건 재확인 · 실제 업무 비중과 통근은 확인 필요",
     "id": "nampyeongtaek-3704613",
     "company": "남평택한의원",
     "role": "접수·예약·수납 간호조무사",
@@ -285,10 +285,10 @@ window.JOBS=[
     "group": "특이사항 확인 후 선택",
     "salaryType": "negotiable",
     "source": "메디잡",
-    "checkedAt": "2026.09.17 07:26",
+    "checkedAt": "2026.09.17 10:22",
     "addedBatch": "2026-09-17T07:26:56.012+09:00",
     "recruitment": "모집 중",
-    "status": "일반 브라우저 공개 상세 확인 · 실제 업무 비중과 통근은 확인 필요",
+    "status": "원문 모집 안내·주요 조건 재확인 · 실제 업무 비중과 통근은 확인 필요",
     "id": "life365-3723614",
     "company": "평택라이프365의원",
     "role": "원무행정 · 접수·수납·서류관리",
@@ -313,5 +313,38 @@ window.JOBS=[
     "deadline": null,
     "deadlineText": "채용시 마감 · 2026.09.15 등록",
     "url": "https://www.medijob.cc/com/cpn/com_cpn_100_view_02?recruitSeqno=3723614"
+  },
+  {
+    "id": "kyungdong-146910927",
+    "company": "경동택배 평택청룡62",
+    "role": "영업소 사무 · 발송 접수·고객 응대",
+    "category": "office",
+    "group": "조건 확인 후 검토",
+    "region": "평택 청룡동",
+    "address": "경기도 평택시 만세로 1469, 경동택배 평택청룡62",
+    "business": "택배 영업소 · 실제 고용주와 업무분장은 확인 필요",
+    "employees": "공개 공고에서 확인되지 않음",
+    "pay": "월 265만 원",
+    "annual": "연 3,180만 원 환산 · 주말·공휴일 수당 별도 안내",
+    "hours": "월~금 08:00~18:00 · 격주 토 08:00~12:00",
+    "contract": "정규직 · 공고상 1년 이상 근무",
+    "benefit": "4대 보험·퇴직금·휴가비·명절수당 안내",
+    "duties": "방문 고객·거래처 발송 접수, 도착 화물 확인, 전화·거래처 응대. 화물 확인의 현장 작업 비중은 미확인.",
+    "why": "발송 접수와 고객 응대가 주요 업무로 제시된 고정 영업소 사무직입니다. 급여와 정규직 조건을 검토할 수 있습니다.",
+    "caution": "08시 출근·격주 토요일 근무. 주5일 표기와 토요일 추가근무 안내를 함께 확인해야 합니다. 상하차 병행과 실제 좌식 비중은 미확인입니다.",
+    "checks": "상하차·분류 병행 여부, 화물 확인 방식, 실제 고용주, 휴게 60분 보장, 평일 연장근무 수당 포함 여부, 토요일 수당, 인수인계, 통근 경로",
+    "specialNotes": [
+      "08시 출근",
+      "격주 토요일 08~12시",
+      "화물 확인 업무 비중 확인"
+    ],
+    "deadline": null,
+    "deadlineText": "상시모집 · 조기 마감 가능",
+    "source": "알바천국",
+    "url": "https://www.alba.co.kr/job/Detail?adid=146910927",
+    "recruitment": "모집 중",
+    "checkedAt": "2026.09.17 10:22",
+    "addedBatch": "2026-09-17T10:22:24+09:00",
+    "status": "공개 원문·상세 이미지 확인 · 현장 업무 비중 미확인"
   }
 ];
