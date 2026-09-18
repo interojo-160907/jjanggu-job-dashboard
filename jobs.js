@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-09-18T10:11:27+09:00","newIds":["dongil-jobaba-81278"],"changedIds":[],"closedIds":[]};
+window.JOB_UPDATE={"id":"2026-09-18T15:12:52+09:00","newIds":["leaders-K180612609180028","ebada-K180612609180030","healthdream-3726613"],"changedIds":[],"closedIds":[]};
 window.JOBS=[
   {
     "id": "crane",
@@ -22,9 +22,9 @@ window.JOBS=[
     "deadline": null,
     "deadlineText": "2026.09.17 오후 원문 마감 안내 확인 · 정확한 마감 시각 미공개",
     "source": "알바천국",
-    "status": "오전 알바천국 원문 응답의 마감 안내 재확인 · 기존 마감 상태 유지",
+    "status": "오후 원문 마감 안내 재확인 · 기존 마감 상태 유지",
     "url": "https://www.alba.co.kr/job/Detail?adid=146669468",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "recruitment": "마감"
   },
   {
@@ -49,9 +49,9 @@ window.JOBS=[
     "deadline": "2026-09-30",
     "deadlineText": "2026.09.30 마감",
     "source": "사람인",
-    "status": "오전 원문 모집 안내·요약 조건 재확인 · 상세 이미지·업무 세부는 앞선 확인 자료 유지",
+    "status": "오후 원문 모집 안내·요약 조건 재확인 · 상세 이미지 세부는 이전 확인 자료 유지",
     "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54914997",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "recruitment": "모집 중",
     "specialNotes": [
       "08:30 출근",
@@ -80,9 +80,9 @@ window.JOBS=[
     "deadline": null,
     "deadlineText": "고용24 채용시까지 / 알바천국 2026.10.17 표기 · 확인 필요",
     "source": "고용24",
-    "status": "오전 원문 모집 안내·본문 주요 조건 재확인 · 좌식 비중·통근 미확인",
+    "status": "오후 원문 모집 안내·본문 주요 조건 재확인 · 좌식 비중·통근 미확인",
     "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet&wantedAuthNo=K180612608180017",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "recruitment": "모집 중",
     "salaryType": "negotiable",
     "employees": "고용24 근로자 수 1명 기재 · 실제 현재 인원 확인 필요",
@@ -112,9 +112,9 @@ window.JOBS=[
     "deadline": null,
     "deadlineText": "상시모집",
     "source": "알바천국",
-    "status": "오전 원문 모집 안내·본문 주요 조건 재확인 · 좌식 비중·통근 미확인",
+    "status": "오후 원문 모집 안내·본문 주요 조건 재확인 · 좌식 비중·통근 미확인",
     "url": "https://www.alba.co.kr/job/Detail?adid=146580300",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "recruitment": "모집 중",
     "specialNotes": [
       "초기 1개월 계약"
@@ -141,9 +141,9 @@ window.JOBS=[
     "deadline": null,
     "deadlineText": "채용시까지",
     "source": "고용24",
-    "status": "오전 원문 모집 안내·본문 주요 조건 재확인 · 좌식 비중·통근 미확인",
+    "status": "오후 원문 모집 안내·본문 주요 조건 재확인 · 좌식 비중·통근 미확인",
     "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet&wantedAuthNo=KEC0092609140002",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "recruitment": "모집 중"
   },
   {
@@ -171,9 +171,9 @@ window.JOBS=[
     "source": "잡코리아",
     "url": "https://m.jobkorea.co.kr/Recruit/GI_Read/49929461?PageGbn=MST&sc=226",
     "addedBatch": "2026-09-17T03:57:04+09:00",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "recruitment": "모집 중",
-    "status": "오전 원문 모집 안내·요약 조건 재확인 · 상세 이미지·업무 세부는 앞선 확인 자료 유지",
+    "status": "오후 원문 모집 안내·요약 조건 재확인 · 상세 이미지 세부는 이전 확인 자료 유지",
     "specialNotes": [
       "08시 출근·19시 퇴근 가능",
       "파견 2년"
@@ -204,9 +204,9 @@ window.JOBS=[
     "source": "잡코리아",
     "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49606850?Oem_Code=C1&listno=4280&logpath=1&stext=%ED%98%91%ED%9A%8C",
     "addedBatch": "2026-09-17T03:57:04+09:00",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "recruitment": "모집 중",
-    "status": "오전 원문 모집 안내·요약 조건 재확인 · 상세 이미지·업무 세부는 앞선 확인 자료 유지",
+    "status": "오후 원문 모집 안내·요약 조건 재확인 · 상세 이미지 세부는 이전 확인 자료 유지",
     "specialNotes": [
       "08시 출근",
       "24개월 계약·인재풀"
@@ -241,20 +241,20 @@ window.JOBS=[
     "deadlineText": "메디잡 2026.10.18 / 사람인 11.14 · 마감 표기 불일치",
     "source": "메디잡 상세 이미지·사람인 교차 확인",
     "url": "https://www.medijob.cc/com/cpn/com_cpn_100_view_02?recruitSeqno=3700364",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "addedBatch": "2026-09-17T07:15:39.815+09:00",
     "recruitment": "모집 중",
-    "status": "오전 원문 모집 안내·요약 조건 재확인 · 상세 이미지·업무 세부는 앞선 확인 자료 유지"
+    "status": "오후 원문 모집 안내·요약 조건 재확인 · 상세 이미지 세부는 이전 확인 자료 유지"
   },
   {
     "category": "office",
     "group": "특이사항 확인 후 선택",
     "salaryType": "negotiable",
     "source": "메디잡",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "addedBatch": "2026-09-17T07:26:56.012+09:00",
     "recruitment": "모집 중",
-    "status": "오전 원문 모집 안내·본문 주요 조건 재확인 · 좌식 비중·통근 미확인",
+    "status": "오후 원문 모집 안내·본문 주요 조건 재확인 · 좌식 비중·통근 미확인",
     "id": "nampyeongtaek-3704613",
     "company": "남평택한의원",
     "role": "접수·예약·수납 간호조무사",
@@ -285,10 +285,10 @@ window.JOBS=[
     "group": "특이사항 확인 후 선택",
     "salaryType": "negotiable",
     "source": "메디잡",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "addedBatch": "2026-09-17T07:26:56.012+09:00",
     "recruitment": "모집 중",
-    "status": "오전 원문 모집 안내·요약 조건 재확인 · 상세 이미지·업무 세부는 앞선 확인 자료 유지",
+    "status": "오후 원문 모집 안내·요약 조건 재확인 · 상세 이미지 세부는 이전 확인 자료 유지",
     "id": "life365-3723614",
     "company": "평택라이프365의원",
     "role": "원무행정 · 접수·수납·서류관리",
@@ -343,9 +343,9 @@ window.JOBS=[
     "source": "알바천국",
     "url": "https://www.alba.co.kr/job/Detail?adid=146910927",
     "recruitment": "모집 중",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "addedBatch": "2026-09-17T10:22:24+09:00",
-    "status": "오전 원문 모집 안내·요약 조건 재확인 · 상세 이미지·업무 세부는 앞선 확인 자료 유지"
+    "status": "오후 원문 모집 안내·요약 조건 재확인 · 상세 이미지 세부는 이전 확인 자료 유지"
   },
   {
     "id": "dongsung-K180612609010019",
@@ -376,9 +376,9 @@ window.JOBS=[
     "source": "고용24 · 알바천국 교차 확인",
     "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K180612609010019&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet",
     "recruitment": "모집 중",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "addedBatch": "2026-09-17T15:13:16+09:00",
-    "status": "오전 원문 모집 안내·본문 주요 조건 재확인 · 좌식 비중·통근 미확인"
+    "status": "오후 원문 모집 안내·본문 주요 조건 재확인 · 좌식 비중·통근 미확인"
   },
   {
     "id": "dongil-jobaba-81278",
@@ -410,8 +410,106 @@ window.JOBS=[
     "source": "경기도 잡아바 · 학교법인 동일학원 첨부 공고문",
     "url": "https://job.gg.go.kr/pblcEmpmn/publicJobDetail.do?seq=81278",
     "recruitment": "모집 중",
-    "checkedAt": "2026.09.18 10:11",
+    "checkedAt": "2026.09.18 15:12",
     "addedBatch": "2026-09-18T10:11:27+09:00",
-    "status": "잡아바 상세와 학교법인 명의 HWP 공고문 확인 · 서류 5배수 선발 후 면접 · 시간·급여 미확인"
+    "status": "오후 잡아바 상세 모집 안내 재확인 · 첨부 공고문 세부는 오전 확인 자료 유지"
+  },
+  {
+    "id": "leaders-K180612609180028",
+    "company": "리더스투어",
+    "role": "총무·사무·행정 직원",
+    "category": "office",
+    "group": "조건 확인 후 검토",
+    "region": "평택 칠괴동",
+    "address": "경기도 평택시 칠괴길 78-10, 1층",
+    "business": "전세버스 운송업 · 평택 삼성전자 통근버스 운용업체의 행정직",
+    "employees": "고용24 기업정보 근로자 65명 · 행정팀 인원 미공개",
+    "pay": "월 267만 원 이상",
+    "annual": "월급 × 12 = 연 3,204만 원 이상 단순 환산 · 수당 포함 여부 확인",
+    "hours": "주 5일 09:00~18:00 · 실제 근무 요일 확인",
+    "contract": "기간의 정함이 없는 근로계약",
+    "benefit": "4대 보험·퇴직연금 · 식사·통근버스·차량유지비 미제공 표기",
+    "duties": "통근버스 운용업체의 총무·사무·행정업무. 문서작성·표계산 등 OA 활용. 구체적인 배차·현장업무 병행 여부는 미공개.",
+    "why": "기간 없는 고용과 09~18시 사무직이며 급여 하한이 공개되어 있습니다. 실제 근무 요일과 업무 분장을 확인한 뒤 검토할 후보입니다.",
+    "caution": "전문대 이상 학력과 자동차운전면허 필수. 신입 공고이며 주 5일의 실제 요일은 미공개입니다. 배차·외근·비상 연락이나 운전업무 병행 여부를 확인해야 합니다.",
+    "checks": "학력·운전면허 요건 충족 여부, 월~금 근무 여부, 배차 및 현장·운전 업무 범위, 업무시간 외 연락, 인수인계와 행정팀 규모, 세전 급여·수당·통근 경로. OA 자격·차량소지·평택 거주 우대.",
+    "specialNotes": [
+      "전문대 이상·운전면허 필수",
+      "근무 요일·배차업무 확인"
+    ],
+    "deadline": "2026-10-02",
+    "deadlineText": "2026.10.02 17:00 마감 · 고용24 원문",
+    "source": "고용24 · 평택고용센터",
+    "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K180612609180028&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet",
+    "recruitment": "모집 중",
+    "checkedAt": "2026.09.18 15:12",
+    "addedBatch": "2026-09-18T15:12:52+09:00",
+    "status": "9/18 신규 원문 본문과 모집 조건 확인 · 통근·좌식 비중 및 별도 확인 사항은 미확인"
+  },
+  {
+    "id": "ebada-K180612609180030",
+    "company": "에바다아동발달센터",
+    "role": "행정·회계 및 치료 일정 관리",
+    "category": "office",
+    "group": "조건 확인 후 검토",
+    "region": "평택 팽성읍",
+    "address": "경기도 평택시 팽성읍 노와길 447, 에바다장애인종합복지관",
+    "business": "아동발달센터 행정사원 채용 · 행정·회계 및 이용인 상담·일정 관리",
+    "employees": "고용24 기업정보 근로자 7명 · 이번 행정사원 채용은 1명",
+    "pay": "월 228만 원",
+    "annual": "월급 × 12 = 연 2,736만 원 단순 환산 · 기본급 기준 상여 60% 별도 표기, 지급 주기·산정 기준 확인",
+    "hours": "월~금 09:00~18:00 · 휴게 12:00~13:00",
+    "contract": "기간의 정함이 없는 근로계약",
+    "benefit": "4대 보험·퇴직급여·명절휴가비 · 본문 교육지원비와 복지표 교육비 미제공 표기가 달라 확인 필요",
+    "duties": "행정·회계, 이용인 초기 상담과 치료 스케줄 관리, 이용료 수납, 홍보 사업, 센터 비품·환경 관리.",
+    "why": "월~금 고정 시간과 기간 없는 고용이며 일정·수납·문서 관리 경험을 활용할 후보입니다. 홍보와 환경 관리가 어떤 업무인지 먼저 확인하세요.",
+    "caution": "행정 외 홍보 사업·비품·환경 관리가 포함됩니다. 영업목표·고객유치 또는 현장 돌봄 중심이면 현재 기준과 맞지 않습니다. 좌식 비중과 업무분장 미확인.",
+    "checks": "홍보가 안내자료 운영인지 고객유치·영업목표 업무인지, 치료·돌봄 직접 수행 여부, 환경 관리·청소 범위, 업무 인수인계·바우처 처리, 상여 60% 지급 기준, 교육지원비, 실제 통근. 바우처 업무 경험·사회복지사·치료사 자격은 우대 표기이며 필수로 단정하지 않음.",
+    "specialNotes": [
+      "홍보·환경 관리 범위 확인",
+      "월 228만·상여 기준 확인"
+    ],
+    "deadline": "2026-10-01",
+    "deadlineText": "2026.10.01 16:00 마감 · 고용24 원문",
+    "source": "고용24 · 평택고용센터",
+    "url": "https://www.work24.go.kr/wk/a/b/1500/empDetailAuthView.do?wantedAuthNo=K180612609180030&infoTypeCd=VALIDATION&infoTypeGroup=tb_workinfoworknet",
+    "recruitment": "모집 중",
+    "checkedAt": "2026.09.18 15:12",
+    "addedBatch": "2026-09-18T15:12:52+09:00",
+    "status": "9/18 신규 원문 본문과 모집 조건 확인 · 통근·좌식 비중 및 별도 확인 사항은 미확인"
+  },
+  {
+    "id": "healthdream-3726613",
+    "company": "건강드림내과",
+    "role": "건강검진센터 원무행정",
+    "category": "office",
+    "group": "조건 확인 후 검토",
+    "salaryType": "negotiable",
+    "region": "평택 지산동",
+    "address": "경기도 평택시 지산로 64, 1~5층",
+    "business": "내과·건강검진센터 데스크 원무행정 채용",
+    "employees": "메디잡 병원정보 직원 35명 · 원무팀 인원 미공개 · 본문 채용 1명",
+    "pay": "연 3,600만 원 이상 · 면접 후 협의",
+    "annual": "본문 연봉 3,600만 원부터 경력에 따라 협의 · 요약은 회사 내규, 수당 포함과 세전 여부 확인",
+    "hours": "주 6일 · 월~금 08:00~18:00 · 토 07:30~14:00",
+    "contract": "정규직 · 수습 1개월(요약 표기)",
+    "benefit": "퇴직금 별도·연차·점심·간식·명절 상여·장기근속 및 우수자 포상·유니폼·진료비 할인 · 청소 담당 별도",
+    "duties": "건강검진센터 데스크 원무행정 업무 외. 세부 접수·수납·예약 업무 분장 및 부수 업무는 확인 필요.",
+    "why": "원무행정으로 업무 방향이 명확하고 본문에 연봉 하한이 공개된 후보입니다. 주 6일과 이른 출근·긴 근무시간을 감수할 수 있을 때 검토하세요.",
+    "caution": "평일 08~18시, 토요일 07:30~14시로 근무시간 부담이 큽니다. 요약에는 간호사·간호조무사 자격이 기재되지만 본문은 자격 무관·간호조무사와 영어 우대라고 적혀 있어 최종 자격 요건 확인이 필요합니다.",
+    "checks": "고졸 이상 요건, 자격증 필수 여부와 임상업무 병행, 주 6일 실제 근무표와 연장·토요일 수당 포함 여부, 수습 급여, 좌식 비중·인수인계·통근. 평일 점심 13~14시·토요일 휴게 30분 표기.",
+    "specialNotes": [
+      "주 6일·토 07:30 출근",
+      "연봉·수당 협의",
+      "자격 요건 표기 차이"
+    ],
+    "deadline": "2026-10-18",
+    "deadlineText": "2026.10.18 마감 · 메디잡 원문",
+    "source": "메디잡",
+    "url": "https://www.medijob.cc/com/cpn/com_cpn_100_view_02?recruitSeqno=3726613",
+    "recruitment": "모집 중",
+    "checkedAt": "2026.09.18 15:12",
+    "addedBatch": "2026-09-18T15:12:52+09:00",
+    "status": "9/18 신규 원문 본문과 모집 조건 확인 · 통근·좌식 비중 및 별도 확인 사항은 미확인"
   }
 ];
