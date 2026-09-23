@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-09-22T15:07:37+09:00","newIds":["gi-K180612609220013","rosol-K180612609210045"],"changedIds":[],"closedIds":["suseong","kyungdong-146910927","bogum"]};
+window.JOB_UPDATE={"id":"2026-09-23T15:03:02+09:00","newIds":["korea-arts-K180612609230011"],"changedIds":[],"closedIds":[]};
 window.JOBS=[
   {
     "id": "crane",
@@ -725,5 +725,34 @@ window.JOBS=[
     "addedBatch": "2026-09-22T15:07:37+09:00",
     "recruitment": "모집 중",
     "status": "9/22 공개 원문 본문 검증 · 미확인 조건 별도 표시"
+  },
+  {
+    "id": "korea-arts-K180612609230011",
+    "company": "(사)한국예총 경기도연합회 평택지회",
+    "role": "문화예술 기획·행정 사무원",
+    "category": "office",
+    "group": "조건 확인 후 검토",
+    "region": "평택 비전동",
+    "address": "경기도 평택시 중앙로 277, 남부문예회관",
+    "business": "문화 및 관광 행정 · 근로자 수 4명 기재",
+    "employees": "고용24 근로자 수 4명",
+    "pay": "월 222.4만 원 · 상여금 별도 120%",
+    "annual": "기본급 기준 연 2,668.8만 원 · 상여금 지급 기준과 실수령 확인",
+    "hours": "주 5일 09:00~18:00 · 휴게 12~13시",
+    "contract": "기간의 정함이 없는 근로계약",
+    "benefit": "4대 보험·퇴직금 · 별도 복리후생 미기재",
+    "duties": "문화예술 기획·행정, 축제 프로그램 운영, 예산 집행·회계, 홍보·디자인.",
+    "why": "비전동 고정 근무지의 주 5일·09~18시 기간 없는 행정 사무 자리입니다. 문서·스프레드시트·회계 프로그램 활용 역량을 쌓는 방향과 연결할 수 있습니다.",
+    "caution": "축제 프로그램 운영과 홍보·디자인 업무가 포함되어 순수 좌식 사무만으로 단정할 수 없습니다. 문화예술행정 1년 이상 경력과 관련 도구 활용을 우대합니다.",
+    "checks": "행사일 현장·야간·주말 업무 빈도, 실제 문서·회계 대 행사운영 비중, 보템e·일러스트·포토샵 필요 수준, 상여금 지급 기준, 인수인계와 소규모 인원 업무 범위, 통근 경로",
+    "specialNotes": ["문화예술행정 경력 1년 우대", "축제 운영·홍보·디자인 병행", "상여금 별도 120% 기준 확인"],
+    "deadline": null,
+    "deadlineText": "채용시까지 · 고용24",
+    "source": "고용24 · 평택고용센터",
+    "url": "https://www.work.go.kr/empInfo/empInfoSrch/detail/empDetailAuthView.do?callPage=detail&wantedAuthNo=K180612609230011",
+    "checkedAt": "2026.09.23 15:03",
+    "addedBatch": "2026-09-23T15:03:02+09:00",
+    "recruitment": "모집 중",
+    "status": "9/23 공개 원문 본문 검증 · 행사 운영·상여금 등 확인 필요 조건 별도 표시"
   }
 ];
