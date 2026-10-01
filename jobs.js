@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-09-30T13:35:25+09:00","newIds":["dongwoo-rd-K180612609300002","carta-KJK3002609290006","glm-K120422609290077","daesung-K180612609290019"],"changedIds":[],"closedIds":["yonsei365-3726399"]};
+window.JOB_UPDATE={"id":"2026-10-01T14:12:49+09:00","newIds":[],"changedIds":[],"closedIds":["seojeong-K180612609230008"]};
 window.JOBS=[
   {
     "id": "crane",
@@ -787,11 +787,11 @@ window.JOBS=[
     "category": "office",
     "group": "조건 확인 후 검토",
     "source": "고용24 · 평택고용센터",
-    "checkedAt": "2026.09.30 13:35",
-    "attemptedAt": "2026.09.30 13:35",
+    "checkedAt": "2026.10.01 14:12",
+    "attemptedAt": "2026.10.01 14:12",
     "addedBatch": "2026-09-25T18:00:09+09:00",
-    "recruitment": "모집 중",
-    "status": "9/30 공개 원문 모집·마감 안내 및 텍스트 조건 재확인 · 상세 이미지·첨부는 직전 검증 자료 유지",
+    "recruitment": "마감",
+    "status": "10/1 고용24 원문이 마감 공고로 전환된 것을 확인 · 기존 공고·관심 기록 보존",
     "id": "seojeong-K180612609230008",
     "company": "서정요양원",
     "role": "요양원 사무원",
