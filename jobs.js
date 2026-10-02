@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-10-01T14:12:49+09:00","newIds":[],"changedIds":[],"closedIds":["seojeong-K180612609230008"]};
+window.JOB_UPDATE={"id":"2026-10-02T10:02:04+09:00","newIds":["careertech-50062194"],"changedIds":[],"closedIds":[]};
 window.JOBS=[
   {
     "id": "crane",
@@ -1232,5 +1232,41 @@ window.JOBS=[
     "deadline": "2026-10-30",
     "deadlineText": "2026.10.30 24시 · 조기 마감 가능",
     "url": "https://www.work.go.kr/empInfo/empInfoSrch/detail/empDetailAuthView.do?callPage=detail&wantedAuthNo=K180612609290019"
-  }
+  },
+{
+  "id": "careertech-50062194",
+  "company": "커리어텍 · 삼성중공업 평택 고덕",
+  "role": "사무·행정직",
+  "category": "office",
+  "stretch": true,
+  "group": "급여 좋은 제안",
+  "region": "평택 고덕동",
+  "address": "경기도 평택시 고덕여염9길 37, 삼성중공업",
+  "business": "커리어텍 파견 채용 / 실제 근무 삼성중공업 평택 고덕 사업장",
+  "employees": "커리어텍 전체 51~300명 이하(잡코리아) · 배치 사업장 인원 미확인",
+  "pay": "월 292만 원 이상 · 성과급 표기",
+  "annual": "연 3,504만 원 이상 단순 환산 · 공고 제목 연 3,661만 원·성과급 표기와 산정 기준 확인",
+  "hours": "월~금 08:00~17:00",
+  "contract": "파견직 · 기간·전환 조건 확인 필요",
+  "benefit": "구내식당·사내 동호회 표기 · 기타 상세 미확인",
+  "duties": "공고 모집분야는 삼성중공업 평택 사무직. 실제 문서·전산·현장 지원 업무 범위는 원문 공개 텍스트에서 미확인.",
+  "why": "고덕동 주 5일 고정 시간의 사무·행정 채용이며 경력·학력 무관, 월 292만 원 이상으로 제시됐습니다.",
+  "caution": "08시 출근과 파견 고용입니다. 성과급 포함 연봉 산정, 계약기간·고용주·전환 가능성, 현장 지원·좌식 비중을 확인해야 합니다.",
+  "checks": "파견 계약기간·전환 조건, 실제 담당 업무와 현장 병행 여부, 좌식 비중, 성과급 산정, 08시 출근 통근",
+  "deadline": "2026-10-02",
+  "deadlineAt": "2026-10-02T23:50:00+09:00",
+  "deadlineText": "2026.10.02 23:50 · 잡코리아",
+  "source": "잡코리아",
+  "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062194?Oem_Code=C1&listno=178&logpath=1&sc=630&stext=%ED%8F%89%ED%83%9D+%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC",
+  "addedBatch": "2026-10-02T10:02:04+09:00",
+  "checkedAt": "2026.10.02 10:02",
+  "attemptedAt": "2026.10.02 10:02",
+  "recruitment": "모집 중",
+  "status": "10/2 잡코리아 공개 원문에서 모집분야·급여·근무시간·고용형태·마감 확인 · 상세 업무 범위는 공개 텍스트 미확인",
+  "specialNotes": [
+    "08시 출근",
+    "파견직 · 계약기간 확인",
+    "성과급 산정 확인"
+  ]
+}
 ];
