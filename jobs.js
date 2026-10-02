@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-10-02T10:02:04+09:00","newIds":["careertech-50062194"],"changedIds":[],"closedIds":[]};
+window.JOB_UPDATE={"id":"2026-10-02T15:00:28+09:00","newIds":["sumifru-55001683"],"changedIds":[],"closedIds":[]};
 window.JOBS=[
   {
     "id": "crane",
@@ -1267,6 +1267,42 @@ window.JOBS=[
     "08시 출근",
     "파견직 · 계약기간 확인",
     "성과급 산정 확인"
+  ]
+},
+{
+  "id": "sumifru-55001683",
+  "company": "스미후루코리아",
+  "role": "사무관리팀 정규직",
+  "category": "office",
+  "group": "조건 확인 후 검토",
+  "region": "평택 포승읍",
+  "address": "경기도 평택시 포승읍 평택항만길 241",
+  "business": "과실류 도매업 · 외국인 투자 중견기업",
+  "employees": "사람인 90명(2026년 기준)",
+  "salaryType": "negotiable",
+  "pay": "면접 후 결정",
+  "annual": "급여 협의 · 기본급·상여·수습 급여 확인",
+  "hours": "주 5일 월~금 · 상세 출퇴근 시간 미확인",
+  "contract": "정규직 · 수습 3개월",
+  "benefit": "건강검진·경조사 지원·자녀학자금·장기근속 포상·4대 보험·퇴직금·구내식당·자기계발비 지원",
+  "duties": "사무관리팀 정규직. 공고 관련태그에 총무·경리·서류·비품관리·수발주가 제시됐으나 실제 담당 비중은 확인 필요.",
+  "why": "내근 100%로 표기된 평택 정규직 사무관리 채용이며, 경력·학력 무관과 월~금 근무가 확인됩니다.",
+  "caution": "포승읍 통근과 급여·실제 근무시간이 미확인입니다. 수발주·무역 관련 업무가 영업 목표나 외근을 포함하는지 확인해야 합니다.",
+  "checks": "출퇴근 시간·통근 경로, 제안 급여와 수습 기준, 수발주·무역 업무의 영업·외근 여부, 실제 좌식 비중, 사무관리팀 인수인계",
+  "deadline": "2026-10-10",
+  "deadlineAt": "2026-10-10T23:59:00+09:00",
+  "deadlineText": "2026.10.10 23:59 · 사람인",
+  "source": "사람인",
+  "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55001683&searchword=%EB%AA%A8%EB%B0%94%EC%9D%BC+%ED%86%B5%EC%8B%A0&t_category=search&t_content=connect_recruit",
+  "addedBatch": "2026-10-02T15:00:28+09:00",
+  "checkedAt": "2026.10.02 15:00",
+  "attemptedAt": "2026.10.02 15:00",
+  "recruitment": "모집 중",
+  "status": "10/2 사람인 공개 원문에서 고용형태·근무일·마감·내근 표기·복리후생 확인 · 상세 업무와 시간은 미확인",
+  "specialNotes": [
+    "포승읍 통근 확인",
+    "급여·상세 시간 미확인",
+    "수발주·무역 업무 범위 확인"
   ]
 }
 ];
