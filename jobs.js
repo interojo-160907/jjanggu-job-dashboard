@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-10-02T15:00:28+09:00","newIds":["sumifru-55001683"],"changedIds":[],"closedIds":[]};
+window.JOB_UPDATE={"id":"2026-10-06T10:01:09+09:00","newIds":["majungmul-55060721"],"changedIds":[],"closedIds":[]};
 window.JOBS=[
   {
     "id": "crane",
@@ -1303,6 +1303,42 @@ window.JOBS=[
     "포승읍 통근 확인",
     "급여·상세 시간 미확인",
     "수발주·무역 업무 범위 확인"
+  ]
+},
+{
+  "id": "majungmul-55060721",
+  "company": "마중물",
+  "role": "냉동·냉장 물류센터 사무직",
+  "category": "office",
+  "group": "조건 확인 후 검토",
+  "region": "평택 청북읍",
+  "address": "경기도 평택시 청북읍 백봉길 182 지하 1층",
+  "business": "냉장·냉동 창고업",
+  "employees": "사람인 12명(2026년 기준)",
+  "salaryType": "negotiable",
+  "pay": "면접 후 결정",
+  "annual": "급여 협의 · 기본급·수당·수습 기준 확인",
+  "hours": "월~금 09:00~18:00",
+  "contract": "정규직 · 수습 3개월",
+  "benefit": "공개 원문 미확인",
+  "duties": "물류센터 사무직. 관련태그에 구매·자재·물류, 물류관리, 거래처관리, 수발주, 자료입력이 제시됐으며 실제 현장 업무 병행 여부는 확인 필요.",
+  "why": "월~금 09~18시 정규직 사무직으로 경력무관·고졸 이상 조건입니다.",
+  "caution": "청북읍 통근과 냉동·냉장 물류센터 환경, 수발주·거래처 관리의 영업성 및 현장 병행 여부, 급여를 확인해야 합니다.",
+  "checks": "현장·상하차 업무 병행 여부, 실제 좌식 비중, 급여·수습, 영업·외근 유무, 통근",
+  "deadline": "2026-10-17",
+  "deadlineAt": "2026-10-17T23:59:00+09:00",
+  "deadlineText": "2026.10.17 23:59 · 사람인",
+  "source": "사람인",
+  "url": "https://m.saramin.co.kr/job-search/view?cn=highschool&cns=list&rec_idx=55060721&referNonce=&t_category=highschool&t_content=generic",
+  "addedBatch": "2026-10-06T10:01:09+09:00",
+  "checkedAt": "2026.10.06 10:01",
+  "attemptedAt": "2026.10.06 10:01",
+  "recruitment": "모집 중",
+  "status": "10/6 사람인 공개 원문에서 고용형태·시간·마감·근무지 확인 · 상세 업무와 복리후생 미확인",
+  "specialNotes": [
+    "청북읍 통근 확인",
+    "냉장·냉동센터 환경 확인",
+    "수발주·현장 병행 확인"
   ]
 }
 ];
