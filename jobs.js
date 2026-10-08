@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-10-06T10:01:09+09:00","newIds":["majungmul-55060721"],"changedIds":[],"closedIds":[]};
+window.JOB_UPDATE={"id":"2026-10-08T12:38:05+09:00","newIds":[],"changedIds":[],"closedIds":["staffs","careertech-50062194"]};
 window.JOBS=[
   {
     "id": "crane",
@@ -50,15 +50,15 @@ window.JOBS=[
     "deadline": "2026-09-30",
     "deadlineText": "2026.09.30 마감",
     "source": "사람인",
-    "status": "9/30 공개 원문 모집·마감 안내 및 텍스트 조건 재확인 · 상세 이미지·첨부는 직전 검증 자료 유지",
+    "status": "10/8 사람인 공개 원문에서 채용마감 안내 확인 · 기존 조건과 개인 기록은 누적 보관",
     "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54914997",
-    "checkedAt": "2026.09.30 13:35",
-    "recruitment": "모집 중",
+    "checkedAt": "2026.10.08 12:38",
+    "recruitment": "마감",
     "specialNotes": [
       "08:30 출근",
       "파견 2년"
     ],
-    "attemptedAt": "2026.09.30 13:35"
+    "attemptedAt": "2026.10.08 12:38"
   },
   {
     "id": "baeksan",
@@ -1259,10 +1259,10 @@ window.JOBS=[
   "source": "잡코리아",
   "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50062194?Oem_Code=C1&listno=178&logpath=1&sc=630&stext=%ED%8F%89%ED%83%9D+%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC",
   "addedBatch": "2026-10-02T10:02:04+09:00",
-  "checkedAt": "2026.10.02 10:02",
-  "attemptedAt": "2026.10.02 10:02",
-  "recruitment": "모집 중",
-  "status": "10/2 잡코리아 공개 원문에서 모집분야·급여·근무시간·고용형태·마감 확인 · 상세 업무 범위는 공개 텍스트 미확인",
+  "checkedAt": "2026.10.08 12:38",
+  "attemptedAt": "2026.10.08 12:38",
+  "recruitment": "마감",
+  "status": "10/8 잡코리아 공개 원문에서 채용마감 안내 확인 · 기존 조건과 개인 기록은 누적 보관",
   "specialNotes": [
     "08시 출근",
     "파견직 · 계약기간 확인",
