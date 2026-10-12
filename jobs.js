@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-10-08T12:38:05+09:00","newIds":[],"changedIds":[],"closedIds":["staffs","careertech-50062194"]};
+window.JOB_UPDATE={"id":"2026-10-12T10:03:32+09:00","newIds":[],"changedIds":[],"closedIds":["sumifru-55001683"]};
 window.JOBS=[
   {
     "id": "crane",
@@ -1295,10 +1295,10 @@ window.JOBS=[
   "source": "사람인",
   "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55001683&searchword=%EB%AA%A8%EB%B0%94%EC%9D%BC+%ED%86%B5%EC%8B%A0&t_category=search&t_content=connect_recruit",
   "addedBatch": "2026-10-02T15:00:28+09:00",
-  "checkedAt": "2026.10.02 15:00",
-  "attemptedAt": "2026.10.02 15:00",
-  "recruitment": "모집 중",
-  "status": "10/2 사람인 공개 원문에서 고용형태·근무일·마감·내근 표기·복리후생 확인 · 상세 업무와 시간은 미확인",
+  "checkedAt": "2026.10.12 10:03",
+  "attemptedAt": "2026.10.12 10:03",
+  "recruitment": "마감",
+  "status": "10/12 사람인 공개 원문에서 채용마감 안내 확인 · 기존 조건과 개인 기록은 누적 보관",
   "specialNotes": [
     "포승읍 통근 확인",
     "급여·상세 시간 미확인",
