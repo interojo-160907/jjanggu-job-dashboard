@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-10-12T10:03:32+09:00","newIds":[],"changedIds":[],"closedIds":["sumifru-55001683"]};
+window.JOB_UPDATE={"id":"2026-10-19T10:04:44+09:00","newIds":[],"changedIds":[],"closedIds":["majungmul-55060721"]};
 window.JOBS=[
   {
     "id": "crane",
@@ -1331,10 +1331,10 @@ window.JOBS=[
   "source": "사람인",
   "url": "https://m.saramin.co.kr/job-search/view?cn=highschool&cns=list&rec_idx=55060721&referNonce=&t_category=highschool&t_content=generic",
   "addedBatch": "2026-10-06T10:01:09+09:00",
-  "checkedAt": "2026.10.06 10:01",
-  "attemptedAt": "2026.10.06 10:01",
-  "recruitment": "모집 중",
-  "status": "10/6 사람인 공개 원문에서 고용형태·시간·마감·근무지 확인 · 상세 업무와 복리후생 미확인",
+  "checkedAt": "2026.10.19 10:04",
+  "attemptedAt": "2026.10.19 10:04",
+  "recruitment": "마감",
+  "status": "10/19 사람인 공개 원문에서 채용마감 안내 확인 · 기존 조건과 개인 기록은 누적 보관",
   "specialNotes": [
     "청북읍 통근 확인",
     "냉장·냉동센터 환경 확인",
