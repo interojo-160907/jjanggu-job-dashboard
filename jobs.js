@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-10-26T11:45:15+09:00","newIds":["wooil-K180612610220011","hd-energy-K180612610260011","yj-food-KEC0092610230005"],"changedIds":[],"closedIds":["themalgeun-1055305"],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
+window.JOB_UPDATE={"id":"2026-10-26T15:05:01+09:00","newIds":["manpower-subwon-50197905"],"changedIds":[],"closedIds":[],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
 window.JOBS=[
   {
     "id": "crane",
@@ -1749,5 +1749,38 @@ window.JOBS=[
     "criteriaStatus": "review",
     "criteriaReason": "주5일·하루 8시간 확인. 시설·안전·보안 관리가 포함돼 사무 중심 업무인지 미확인",
     "url": "https://www.work.go.kr/empInfo/empInfoSrch/detail/empDetailAuthView.do?callPage=detail&wantedAuthNo=KEC0092610230005"
+  },
+  {
+    "id": "manpower-subwon-50197905",
+    "company": "맨파워코리아 · 글로벌 사무용품기업",
+    "role": "물류센터 사무직",
+    "category": "office",
+    "group": "조건 확인 후 검토",
+    "region": "평택 진위면",
+    "address": "경기도 평택시 진위면 진위2산단로 45 (서브원중앙HUB)",
+    "business": "맨파워코리아 채용 · 실제 배치 기업명은 공개 공고에서 비공개",
+    "employees": "맨파워코리아 기업정보 10,001명 이상 · 배치 사업장 인원 미확인",
+    "pay": "연 2,780만 원 · 면접 후 결정",
+    "annual": "제시 연봉 2,780만 원 · 수당·퇴직금 포함 여부 확인",
+    "hours": "월~금 주5일 09:00~18:00 · 휴게 및 주40시간 원문 미확인",
+    "contract": "12개월 계약직·파견직",
+    "benefit": "공개 요약 미기재 · 확인 필요",
+    "duties": "공개 원문은 물류센터 사무직으로만 안내하며 전산·문서·현장 업무 비율은 미기재.",
+    "why": "평택 진위의 월~금 09~18시 사무직으로 공개됐습니다. 실제 사무 중심 배치인지 확인한 뒤 검토할 후보입니다.",
+    "caution": "12개월 파견·계약직이며, 업무 범위와 휴게·실근로시간이 원문 요약에 충분히 드러나지 않았습니다. 물류 현장 지원·교대·잔업 여부를 확인하세요.",
+    "checks": "휴게 포함 주40시간 여부, 전산·문서와 현장 지원 비율, 실제 고용주·배치부서, 연장·교대근무, 계약 종료 후 고용",
+    "specialNotes": ["12개월 파견·계약직", "물류 현장 지원 비율 확인", "휴게·주40시간 확인"],
+    "deadline": "2026-11-18",
+    "deadlineText": "2026.11.18 · 조기 마감 또는 변경 가능",
+    "source": "잡코리아",
+    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50197905?Oem_Code=C1&listno=748&logpath=1&sc=630&stext=%EA%B2%8C%EC%8B%9C%ED%8C%90+%EC%83%81%EB%8B%B4",
+    "recruitment": "모집 중",
+    "checkedAt": "2026.10.26 15:05",
+    "status": "10/26 잡코리아 공개 원문에서 모집·급여·시간·계약·마감 확인. 상세 업무·휴게·첨부는 미검증",
+    "attemptedAt": "2026.10.26 15:05",
+    "addedBatch": "2026-10-26T15:05:01+09:00",
+    "criteriaStatus": "review",
+    "criteriaReason": "월~금 09~18시 확인. 휴게 제외 실근로 8시간과 물류 현장 지원 비중이 공개 원문에서 미확인",
+    "criteriaReviewedAt": "2026.10.26 15:05"
   }
 ];
