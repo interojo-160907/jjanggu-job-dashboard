@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-10-26T15:05:01+09:00","newIds":["manpower-subwon-50197905"],"changedIds":[],"closedIds":[],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
+window.JOB_UPDATE={"id":"2026-10-27T10:02:08+09:00","newIds":["numberone-50210702"],"changedIds":[],"closedIds":[],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
 window.JOBS=[
   {
     "id": "crane",
@@ -1782,5 +1782,38 @@ window.JOBS=[
     "criteriaStatus": "review",
     "criteriaReason": "월~금 09~18시 확인. 휴게 제외 실근로 8시간과 물류 현장 지원 비중이 공개 원문에서 미확인",
     "criteriaReviewedAt": "2026.10.26 15:05"
+  },
+  {
+    "id": "numberone-50210702",
+    "company": "넘버원상사㈜평택",
+    "role": "사무직(공구·철물·안전용품)",
+    "category": "office",
+    "group": "조건 확인 후 검토",
+    "region": "안성 양성면",
+    "address": "경기 안성시 양성면 양성로 556 (장서리)",
+    "business": "공구·철물·안전용품 도소매",
+    "employees": "미기재 · 확인 필요",
+    "pay": "월 220만 원 이상",
+    "annual": "월급 기준 연 2,640만 원 이상 단순 환산 · 수당·퇴직금 구성 확인",
+    "hours": "월~금 주5일 09:00~18:00 · 휴게 및 주40시간 원문 미확인",
+    "contract": "정규직",
+    "benefit": "점심 식사 지원",
+    "duties": "공개 원문은 사무직으로만 안내하며 수발주·매장 판매·납품·외근 등 실제 담당 범위는 미기재.",
+    "why": "안성의 정규직·월~금 09~18시 사무직으로 공개됐습니다. 실제 내부 사무 중심인지 확인한 뒤 검토할 후보입니다.",
+    "caution": "월 220만 원 이상이며, 업무 범위와 휴게·실근로시간이 공개 원문에 상세히 드러나지 않았습니다. 판매·납품·외근 포함 여부를 확인하세요.",
+    "checks": "휴게 포함 주40시간 여부, 수발주·전산·문서와 매장 판매·납품 비율, 외근·운전 여부, 인수인계, 급여 구성",
+    "specialNotes": ["업무 범위 확인", "판매·납품·외근 여부 확인", "휴게·주40시간 확인"],
+    "deadline": "2026-10-27",
+    "deadlineText": "2026.10.27 · 정확한 마감 시각 미기재 / 조기 마감 가능",
+    "source": "잡코리아",
+    "url": "https://m.jobkorea.co.kr/Recruit/GI_Read/50210702?sc=640",
+    "recruitment": "모집 중",
+    "checkedAt": "2026.10.27 10:02",
+    "status": "10/27 잡코리아 공개 원문에서 모집·급여·시간·정규직·마감 확인. 상세 업무·휴게·첨부는 미검증",
+    "attemptedAt": "2026.10.27 10:02",
+    "addedBatch": "2026-10-27T10:02:08+09:00",
+    "criteriaStatus": "review",
+    "criteriaReason": "월~금 09~18시 확인. 휴게 제외 실근로 8시간과 판매·납품·외근 포함 여부가 공개 원문에서 미확인",
+    "criteriaReviewedAt": "2026.10.27 10:02"
   }
 ];
