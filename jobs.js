@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-10-28T05:08:47+09:00","newIds":["hana-bnt-K180632610230006","hankook-K180632610220016","pungnyeonga-K180632610220014","jeongeum-office-KEC0092610260006"],"changedIds":["dongsung-K180612609010019","d1-K180612609280056"],"closedIds":[],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
+window.JOB_UPDATE={"id":"2026-10-28T15:01:33+09:00","newIds":["jobkorea-partners-50229368"],"changedIds":[],"closedIds":[],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
 window.JOBS=[
   {
     "id": "crane",
@@ -1973,5 +1973,39 @@ window.JOBS=[
       "간호직 별도 모집·겸임 여부 확인"
     ],
     "url": "https://www.work.go.kr/empInfo/empInfoSrch/detail/empDetailAuthView.do?callPage=detail&wantedAuthNo=KEC0092610260006"
+  },
+  {
+    "id": "jobkorea-partners-50229368",
+    "company": "잡코리아파트너스 유한회사 · 평택 중견기업",
+    "role": "구매·비용 사무직",
+    "category": "office",
+    "group": "조건 확인 후 검토",
+    "region": "평택 진위면",
+    "address": "경기도 평택시 진위면 경기대로 · 세부 근무지 미기재",
+    "business": "인력 공급·인사관리 서비스업 · 실제 배치 기업명 비공개",
+    "employees": "잡코리아파트너스 기업정보 51~300명 · 배치 사업장 인원 미확인",
+    "salaryType": "company-policy",
+    "pay": "회사 내규 · 면접 시 확인",
+    "annual": "공고 제목에 연 최대 4,000만 원 수준 표기 · 기본급·성과급 구성 미확인",
+    "hours": "근무 요일·시간·휴게·주40시간 공개 원문 미기재",
+    "contract": "파견직 · 소속 전환 가능성 제목 표기, 조건 미확인",
+    "benefit": "공개 원문 미기재 · 확인 필요",
+    "duties": "구매·비용 관련 사무직으로만 공개됐으며 발주·비용정산·현장 지원의 실제 비중은 미기재.",
+    "why": "평택 진위면의 구매·비용 사무직으로 공개됐으며 경력·학력 무관입니다. 근무 시간과 실제 내부 사무 범위를 확인한 뒤 검토할 후보입니다.",
+    "caution": "파견 공고이며 실제 배치 기업명, 고용 전환 조건, 근무시간·휴게·주40시간, 연봉 구성과 현장·외근 업무 범위가 공개 원문에서 확인되지 않았습니다.",
+    "checks": "월~금 여부·근무시간·휴게·주40시간, 구매·비용 업무의 상세 범위, 현장·외근·운전 여부, 실제 고용주와 전환 조건, 연봉·성과급 구성",
+    "specialNotes": ["파견직", "근무시간·주40시간 확인", "소속 전환 조건 확인", "급여 구성 확인"],
+    "deadline": "2026-11-02",
+    "deadlineText": "2026.11.02 · 조기 마감 또는 변경 가능",
+    "source": "잡코리아",
+    "url": "https://m.jobkorea.co.kr/Recruit/GI_Read/50229368?sc=621",
+    "recruitment": "모집 중",
+    "checkedAt": "2026.10.28 15:01",
+    "status": "10/28 잡코리아 공개 원문에서 모집·직무·파견·근무지·마감 확인. 시간·휴게·급여 구성·상세 업무는 미검증",
+    "attemptedAt": "2026.10.28 15:01",
+    "addedBatch": "2026-10-28T15:01:33+09:00",
+    "criteriaStatus": "review",
+    "criteriaReason": "구매·비용 사무직이나 근무 요일·휴게 제외 실근로 8시간과 현장·외근 포함 여부가 공개 원문에서 미확인",
+    "criteriaReviewedAt": "2026.10.28 15:01"
   }
 ];
