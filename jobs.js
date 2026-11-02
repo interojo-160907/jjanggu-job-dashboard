@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-10-29T09:58:18+09:00","newIds":["dakonet-55276700","esan-55324998"],"changedIds":[],"closedIds":[],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
+window.JOB_UPDATE={"id":"2026-11-02T09:58:43+09:00","newIds":["tdk-55353867"],"changedIds":[],"closedIds":[],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
 window.JOBS=[
   {
     "id": "crane",
@@ -2073,5 +2073,38 @@ window.JOBS=[
     "criteriaStatus": "review",
     "criteriaReason": "주40시간과 문서·일정 중심 업무는 확인했으나 실제 월~금·휴게 제외 실근로 8시간과 영업·외근 포함 여부가 미확인",
     "criteriaReviewedAt": "2026.10.29 09:58"
+  },
+  {
+    "id": "tdk-55353867",
+    "company": "TDK한국㈜",
+    "role": "자동화설비 제작추진 사무",
+    "category": "office",
+    "group": "조건 확인 후 검토",
+    "region": "평택 청북면",
+    "address": "경기 평택시 청북면 현곡산업단지 내",
+    "business": "전자부품 제조",
+    "employees": "공개 원문 미기재 · 확인 필요",
+    "pay": "회사 내규 · 확인 필요",
+    "annual": "공개 원문 미기재 · 확인 필요",
+    "hours": "근무 요일·출퇴근·휴게 미기재",
+    "contract": "계약직 · 1년",
+    "benefit": "선택적 복리후생·퇴직금 누진제·통근버스·구내식당·건강관리실·자녀 학자금 지원",
+    "duties": "매출 집계, 손익 자료 작성, 수불·실적 관리, 견적서 작성 및 일반사무.",
+    "why": "평택 청북면 본사의 1년 계약 사무직으로 매출·손익·실적 자료와 견적서 작성 등 내근 문서 업무가 공개됐습니다.",
+    "caution": "자동화설비 제작추진 부문이라 설비 제작 현장 지원 비율, 월~금 여부, 휴게 제외 실근로 8시간과 급여가 공개 원문에 없습니다. 초대졸 이상·관련 실무경력, OA 능력이 필수입니다.",
+    "checks": "월~금 여부·출퇴근·휴게·실근로 8시간, 설비 제작 현장 지원 비율, 급여·계약 연장·전환 가능성, 수불관리 범위, 통근",
+    "specialNotes": ["1년 계약직", "실무경력·초대졸 이상 필수", "급여·근무시간 미기재", "통근버스 서정리역 운행"],
+    "deadline": "2026-11-02",
+    "deadlineText": "2026.11.02 · 조기 마감 가능",
+    "source": "사람인",
+    "url": "https://www.saramin.co.kr/api/jobs/job/content?rec_idx=55353867",
+    "recruitment": "모집 중",
+    "checkedAt": "2026.11.02 09:58",
+    "status": "11/02 사람인 공개 원문에서 계약·직무·근무지·마감·복리후생 확인. 실제 근무 요일·시간·휴게·급여와 현장 지원 비율은 미검증",
+    "attemptedAt": "2026.11.02 09:58",
+    "addedBatch": "2026-11-02T09:58:43+09:00",
+    "criteriaStatus": "review",
+    "criteriaReason": "문서·자료·견적 중심 사무 업무는 확인했으나 월~금·휴게 제외 실근로 8시간, 급여와 설비 제작 현장 지원 비율이 미확인",
+    "criteriaReviewedAt": "2026.11.02 09:58"
   }
 ];
