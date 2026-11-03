@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-11-02T14:58:39+09:00","newIds":["lg-55450181"],"changedIds":[],"closedIds":[],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
+window.JOB_UPDATE={"id":"2026-11-03T10:02:13+09:00","newIds":["gig-55459279"],"changedIds":[],"closedIds":[],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
 window.JOBS=[
   {
     "id": "crane",
@@ -2139,5 +2139,38 @@ window.JOBS=[
     "criteriaStatus": "match",
     "criteriaReason": "월~금·08~17시·주40시간·내근 100%의 사무지원 조건을 공개 원문에서 확인. 휴게와 세부 구매팀 업무 범위는 지원 전 확인 필요",
     "criteriaReviewedAt": "2026.11.02 14:58"
+  },
+  {
+    "id": "gig-55459279",
+    "company": "㈜지아이지",
+    "role": "안성 물류센터 사무직(Operator)",
+    "category": "office",
+    "group": "조건 확인 후 검토",
+    "region": "안성 일죽면",
+    "address": "경기 안성시 일죽면 초막길 100-2",
+    "business": "화물운송 중개·대리 및 관련 서비스업",
+    "employees": "120명 (2020년 기준)",
+    "pay": "면접 후 결정",
+    "annual": "급여 협의 · 확인 필요",
+    "hours": "월~금 표기 · 출퇴근·휴게·주40시간 미기재",
+    "contract": "정규직 · 수습 3개월",
+    "benefit": "퇴직연금·상여금·장기근속·우수사원 포상·휴일 수당·4대보험·명절 선물·구내식당·점심·저녁·간식·음료 제공",
+    "duties": "3PL 물류센터 Operator 업무로 공개 태그는 물류관리·물류사무원·ERP·WMS이며 세부 업무와 현장 지원 비율은 미기재.",
+    "why": "안성 일죽면의 월~금 정규직 물류 사무직으로 ERP·WMS 관련 사무 직무가 공개됐습니다. 물류 현장 업무 비중을 확인한 뒤 검토할 후보입니다.",
+    "caution": "물류센터 Operator 직무이므로 창고·현장 운영, 재고·입출고·배차 지원 비중을 확인해야 합니다. 급여와 출퇴근·휴게·실근로 8시간도 공개 원문에서 미확인입니다.",
+    "checks": "출퇴근·휴게·주40시간, ERP·WMS와 현장 운영 업무 비율, 지게차·입출고·재고 실무 포함 여부, 급여 구성·수습 평가, 통근",
+    "specialNotes": ["월~금 표기", "정규직·수습 3개월", "급여 협의", "물류 현장 지원 비율 확인", "구내식당·식사 제공"],
+    "deadline": "2026-12-02",
+    "deadlineText": "2026.12.02 23:59 · 조기 마감 또는 변경 가능",
+    "source": "사람인",
+    "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55459279",
+    "recruitment": "모집 중",
+    "checkedAt": "2026.11.03 10:02",
+    "status": "11/03 사람인 공개 원문에서 모집·월~금·정규직·수습·마감·근무지·복리후생 확인. 시간·휴게·급여와 세부 물류 현장 비율은 미검증",
+    "attemptedAt": "2026.11.03 10:02",
+    "addedBatch": "2026-11-03T10:02:13+09:00",
+    "criteriaStatus": "review",
+    "criteriaReason": "월~금과 정규직은 확인했으나 휴게 제외 실근로 8시간·급여 및 물류 현장 운영 비율이 미확인",
+    "criteriaReviewedAt": "2026.11.03 10:02"
   }
 ];
