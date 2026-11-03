@@ -1,5 +1,5 @@
 // Manual source review; preserve listing IDs and personal browser records.
-window.JOB_UPDATE={"id":"2026-11-03T10:02:13+09:00","newIds":["gig-55459279"],"changedIds":[],"closedIds":[],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
+window.JOB_UPDATE={"id":"2026-11-03T15:04:18+09:00","newIds":["dt-55373990"],"changedIds":[],"closedIds":[],"criteriaUpdatedAt":"2026-10-22T09:25:43+09:00"};
 window.JOBS=[
   {
     "id": "crane",
@@ -2172,5 +2172,38 @@ window.JOBS=[
     "criteriaStatus": "review",
     "criteriaReason": "월~금과 정규직은 확인했으나 휴게 제외 실근로 8시간·급여 및 물류 현장 운영 비율이 미확인",
     "criteriaReviewedAt": "2026.11.03 10:02"
+  },
+  {
+    "id": "dt-55373990",
+    "company": "㈜디티",
+    "role": "평택 저온 물류센터 전산 사무직 CS 담당",
+    "category": "office",
+    "group": "조건 확인 후 검토",
+    "region": "평택 오성면",
+    "address": "경기 평택시 오성면 오성산단1로 131",
+    "business": "일반 화물자동차 운송업 · 저온 물류센터",
+    "employees": "30명 (2026년 기준)",
+    "pay": "월 245만 원 · 주40시간 기준",
+    "annual": "월 245만 원 · 상여·퇴직금 구성 확인 필요",
+    "hours": "주40시간 표기 · 실제 요일·출퇴근·휴게 미기재",
+    "contract": "정규직 · 수습 3개월",
+    "benefit": "공개 원문에서 세부 복리후생 확인 필요",
+    "duties": "저온 물류센터 전산 사무직 CS 담당. 공개 태그는 정산관리·ERP·WMS이며 고객응대, 출고·재고·현장 지원의 실제 비중은 미기재.",
+    "why": "평택 오성면 정규직 전산 사무 공고로 월 245만 원과 주40시간, ERP·WMS·정산관리 관련 태그가 공개됐습니다. 비영업 내근 행정 비중을 확인한 뒤 검토할 후보입니다.",
+    "caution": "CS 담당 표기이므로 아웃바운드·판매 목표·전화 응대 비중을 확인해야 합니다. 실제 근무 요일·출퇴근·휴게 제외 실근로 8시간과 현장 지원 비율도 공개 원문에서 미확인입니다.",
+    "checks": "월~금 여부와 출퇴근·휴게·실근로 8시간, CS의 전화·아웃바운드·판매 목표 포함 여부, ERP·WMS·정산과 현장 업무 비율, 수습 평가·상여·퇴직금 구성, 통근",
+    "specialNotes": ["정규직·수습 3개월", "월 245만 원·주40시간 표기", "CS·전화·영업성 확인", "근무 요일·휴게 확인", "물류 현장 지원 비율 확인"],
+    "deadline": "2026-11-22",
+    "deadlineText": "2026.11.22 23:59 · 조기 마감 또는 변경 가능",
+    "source": "사람인",
+    "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55373990",
+    "recruitment": "모집 중",
+    "checkedAt": "2026.11.03 15:04",
+    "status": "11/03 사람인 공개 원문에서 정규직·수습 3개월·월 245만 원·주40시간·평택 오성면 근무지·11/22 마감·ERP·WMS·정산관리 태그 확인. 실제 요일·출퇴근·휴게와 CS·현장 업무 비율은 미검증",
+    "attemptedAt": "2026.11.03 15:04",
+    "addedBatch": "2026-11-03T15:04:18+09:00",
+    "criteriaStatus": "review",
+    "criteriaReason": "정규직·주40시간 전산 사무 공고이나 실제 근무 요일·휴게 제외 실근로 8시간과 CS의 아웃바운드·영업성, 물류 현장 지원 비율이 미확인",
+    "criteriaReviewedAt": "2026.11.03 15:04"
   }
 ];
